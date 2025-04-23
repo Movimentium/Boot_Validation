@@ -1,10 +1,6 @@
-//
 //  Boot_ValidationApp.swift
 //  Boot_Validation
-//
 //  Created by Miguel Gallego on 23/4/25.
-//
-
 import SwiftUI
 
 @main
