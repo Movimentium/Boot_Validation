@@ -7,7 +7,7 @@ import SwiftUI
 struct Boot_ValidationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginView()
         }
     }
 }
