@@ -10,6 +10,7 @@ struct LoginView: View {
     var body: some View {
         Form {
             TextField("Email", text: $email)
+                .textInputAutocapitalization(.never)
             SecureField("Password", text: $password)
             Button("Login") {
                 
@@ -18,6 +19,7 @@ struct LoginView: View {
         }
     }
     
+    // MARK: - Logic 
     private var isFormValid: Bool {
         !password.isEmpty && email.isValidEmail
     }
