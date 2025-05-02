@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C3FE60F2DC5575000DF4601 /* LoginView_withSummaryErrors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C3FE60E2DC5575000DF4601 /* LoginView_withSummaryErrors.swift */; };
 		0C57B7312DB98D69001B6493 /* Boot_ValidationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C57B7302DB98D69001B6493 /* Boot_ValidationApp.swift */; };
 		0C57B7332DB98D69001B6493 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C57B7322DB98D69001B6493 /* LoginView.swift */; };
 		0C57B7352DB98D6B001B6493 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C57B7342DB98D6B001B6493 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0C3FE60E2DC5575000DF4601 /* LoginView_withSummaryErrors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView_withSummaryErrors.swift; sourceTree = "<group>"; };
 		0C57B72D2DB98D69001B6493 /* Boot_Validation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Boot_Validation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C57B7302DB98D69001B6493 /* Boot_ValidationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Boot_ValidationApp.swift; sourceTree = "<group>"; };
 		0C57B7322DB98D69001B6493 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				0C57B7322DB98D69001B6493 /* LoginView.swift */,
 				0C57B7432DB9946B001B6493 /* LoginView_withErrorMsgs.swift */,
 				0C57B7452DB99CF4001B6493 /* LoginView_withVM.swift */,
+				0C3FE60E2DC5575000DF4601 /* LoginView_withSummaryErrors.swift */,
 				0C57B7402DB98F2E001B6493 /* Extensions */,
 				0C57B7342DB98D6B001B6493 /* Assets.xcassets */,
 				0C57B7362DB98D6B001B6493 /* Preview Content */,
@@ -160,6 +163,7 @@
 			files = (
 				0C57B7462DB99CF4001B6493 /* LoginView_withVM.swift in Sources */,
 				0C57B7332DB98D69001B6493 /* LoginView.swift in Sources */,
+				0C3FE60F2DC5575000DF4601 /* LoginView_withSummaryErrors.swift in Sources */,
 				0C57B7422DB98F3D001B6493 /* String_Extension.swift in Sources */,
 				0C57B7312DB98D69001B6493 /* Boot_ValidationApp.swift in Sources */,
 				0C57B7442DB9946B001B6493 /* LoginView_withErrorMsgs.swift in Sources */,

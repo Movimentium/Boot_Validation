@@ -64,7 +64,7 @@ struct LoginState {             // You can write this in another file
 }
 
 
-enum LoginError: Error, LocalizedError {
+enum LoginError: LocalizedError {
     case emailEmpty
     case emailInvalid
     case passwordEmpty
